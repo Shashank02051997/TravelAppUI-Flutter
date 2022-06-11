@@ -1,4 +1,4 @@
-# travel_app_ui
+# Travel App UI
 
 A new Flutter project.
 
