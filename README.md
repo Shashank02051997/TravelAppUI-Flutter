@@ -10,9 +10,9 @@ Star⭐ the repo if you like what you see😉.
 <img src="https://github.com/Shashank02051997/TravelAppUI-Flutter/blob/master/screenshots/screenshot_1.png">
 <img src="https://github.com/Shashank02051997/TravelAppUI-Flutter/blob/master/screenshots/screenshot_5.png">
 
-<img src="https://github.com/Shashank02051997/TravelAppUI-Flutter/blob/master/screenshots/screenshot_2.png" height="800" width="400" hspace="40"><img src="https://github.com/Shashank02051997/TravelAppUI-Flutter/blob/master/screenshots/screenshot_3.png" height="800" width="400" hspace="40">
+<img src="https://github.com/Shashank02051997/TravelAppUI-Flutter/blob/master/screenshots/screenshot_2.png" height="600" width="300" hspace="40"><img src="https://github.com/Shashank02051997/TravelAppUI-Flutter/blob/master/screenshots/screenshot_3.png" height="600" width="300" hspace="40">
 
-<img src="https://github.com/Shashank02051997/TravelAppUI-Flutter/blob/master/screenshots/screenshot_4.png" height="800" width="400" hspace="40">
+<img src="https://github.com/Shashank02051997/TravelAppUI-Flutter/blob/master/screenshots/screenshot_4.png" height="700" width="350" hspace="40">
 
 ## ✨ Requirements
 * Any Operating System (ie. MacOS X, Linux, Windows)
