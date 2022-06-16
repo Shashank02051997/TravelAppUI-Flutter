@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-
 import '../utils/routes.dart';
 
 class StartTourScreen extends StatelessWidget {
